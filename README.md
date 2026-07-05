@@ -2,7 +2,7 @@
 
 #### Video Demo: https://youtu.be/XXXXXXXXXX
 
-#### GitHub: https://github.com/yourusername/cs50p-final-project
+#### GitHub:https://github.com/yourusername/cs50p-final-project](https://github.com/umar-ihtsham/cs50p-final-project
 
 #### Description:
 
